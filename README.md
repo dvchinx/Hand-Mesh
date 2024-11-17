@@ -27,3 +27,12 @@ Ideal para aprender sobre visión por computadora y trabajar con modelos preentr
    ```bash
    git clone https://github.com/dvchinx/Hand-Mesh.git
    cd Hand-Mesh
+
+---
+
+## ▶️ Uso
+1. Asegúrate de tener una cámara conectada.
+2. Ejecuta la aplicación:
+   ```bash
+   python main.py
+Observa cómo tu mano es detectada en tiempo real.
