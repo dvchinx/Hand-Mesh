@@ -1,5 +1,6 @@
 # 🖐️ Hand-Mesh  
 **Mapea y detecta la posición de tu mano en tiempo real usando Python con OpenCV y MediaPipe**  
+![ScreenShot](https://github.com/dvchinx/Hand-Mesh/imgs/SS1.png)
 
 ## 🚀 Descripción  
 **Hand-Mesh** es una aplicación sencilla de Python que utiliza **OpenCV** y **MediaPipe** para capturar la posición de una mano en tiempo real a través de la cámara.  
