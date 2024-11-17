@@ -24,5 +24,5 @@ Ideal para aprender sobre visión por computadora y trabajar con modelos preentr
 ## 📦 Instalación  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/Hand-Mesh.git
+   git clone https://github.com/dvchinx/Hand-Mesh.git
    cd Hand-Mesh
